@@ -12,3 +12,5 @@ https://Rym25.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Ryely Moore
+
+### ©️2019  Run Buddy, Inc
