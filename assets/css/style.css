@@ -122,7 +122,18 @@ section {
 .secondary-border {
     border-color: #39a6b2;
 }
-
+.hero-text h2 {
+    font-style: italic;
+    color: #fce128;
+    font-size: 36px;
+    display: inline-block;
+    float: left;
+}
+.hero-text p {
+    color: white;
+    display: inline-block;
+    float: left;
+}
 /* What We Do Section */
 .intro {
     text-align: center;
